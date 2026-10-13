@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "standard_version": "1.0.0",
+  "skill": "image-story-video-wizard",
+  "source_version": "45eaf8b4d78389852df43dbface04d05ba7b209a293e245301a5bcb9e1281c10",
+  "origin": "original",
+  "stage": "candidate",
+  "upstream": "",
+  "files": {
+    "LICENSE": "d3fb9da988435dd2566ab6f0b8827622fc9669adcae1ba6f5c3fa5dc3e7dcd87",
+    "README.md": "87c726aad7712df68089b6955c3a2a3467a5e9e7cb872cada7affd55a24718a3",
+    "README.original.md": "87e3642f71834b8968eda03d92f7fd417c5be4982d36cf0d0ec7ec4c0bb306bc",
+    "SKILL.md": "aa33ec3b292273c25eaf04f1a6e273c60c7aba9ed0f7665d5ba59f87f9c351a2",
+    "agents/openai.yaml": "2d226a1b8acdc701233b1cd567767918a7d291e10c8d9110dfce260c273fc0e0",
+    "assets/brief-template.md": "75fbe1a5cc73212b7368fe278ba31c9de420ea21a45665fab9fd9219934a6c9b",
+    "assets/handoff-template.md": "d95c6e6d8aadc539d8dcac0d4b00a8ae62589b9b8fd263c547bb877425cc2522",
+    "assets/storyboard-template.csv": "5a8af6ca178e2438ca8894d2faba61c4c6195d3f6c780d5576e2234f3a7e280b",
+    "assets/writing-pack-manifest.md": "fce0a182d28ee017d268a3bf9a4814f9cd866f50d79f7406a1bc61fc09c34d8b",
+    "docs/ARTICLE_ALIGNMENT.md": "65ef81316f40276ab824121ec8eb9b82e2734347e2ef8981127b1683d29afd80",
+    "references/host-routing.md": "b3eec51c01ff827788abdd9998c75979d2a828e14c3eefa21dc188d9eb32fc02",
+    "references/state-schema.md": "87cc85ac3ac9b5cedc5d9f3a21a1105ee8c3c9ffdb7e0466a27a1c3fbb7cb99d",
+    "references/workflow.md": "61f9a8a4f494cbc37cd2c590bb7af64fc520f3e216ae15b9cdac6241ecc71e37",
+    "scripts/project_state.py": "13342660a8c77cb4ea943f80334e6f7c1cec7cb9cb726bf6a9c998deddd668bc",
+    "tests/test_article_alignment.py": "1c93bba0a170a2655beec5290503565c2af583932852caa4653a914d2186293e"
+  }
+}
